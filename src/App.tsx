@@ -27,7 +27,7 @@ import VideoLanding from './pages/VideoLanding';
 import SimpleRegistration from './pages/SimpleRegistration';
 import Dashboard from './pages/Dashboard';
 import VoiceVitalsHealth from './pages/VoiceVitalsHealth';
-import Transport from './pages/Transportation';
+import Transport from './pages/transportation';
 import ReactDOM from "react-dom/client";
 // i18n
 import './i18n';
