@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome to VoiceVitals AI",
+  "chooseLanguage": "Choose Language",
+  "dashboard": "Dashboard",
+  "symptomChecker": "Symptom Checker",
+  "voiceInput": "Voice Input",
+  "logout": "Logout",
+  "impactMetrics": "Impact Metrics"
+}
